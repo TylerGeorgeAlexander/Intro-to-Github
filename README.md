@@ -1,7 +1,7 @@
 # Intro-to-Github
  review with event
 
-![Gameboy](Intro-to-Github/gameboy.png)
+![Gameboy](gameboy.png)
 
 # Heading 1
 ## Heading 2
